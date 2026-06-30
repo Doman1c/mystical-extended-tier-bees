@@ -1,0 +1,32 @@
+{
+  "type": "productivebees:advanced_beehive",
+  "ingredient": "productivebees:ornium",
+  "results": [
+    {
+      "item": {
+        "type": "productivebees:component",
+        "components": {
+          "productivebees:bee_type": "productivebees:ornium"
+        },
+        "items": "productivebees:configurable_honeycomb"
+      },
+      "chance": 0.4
+    },
+    {
+      "item": {
+        "tag": "c:pollens"
+      },
+      "chance": 0.05
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mysticalextendedtier"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:ornium"
+    }
+  ]
+}

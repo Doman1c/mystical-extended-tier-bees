@@ -1,0 +1,21 @@
+{
+  "entity.productivebees.ornium_bee": "奥尼姆精华",
+  "entity.productivebees.lightium_bee": "光素精华",
+  "entity.productivebees.tornium_bee": "托尼姆精华",
+  "entity.productivebees.ouranium_bee": "铀源精华",
+  "item.productivebees.spawn_egg_configurable": "%s蜜蜂刷怪蛋",
+  "item.productivebees.honeycomb_configurable": "%s蜜脾",
+  "block.productivebees.comb_configurable": "%s蜜脾块",
+  "item.productivebees.spawn_egg_ornium_bee": "奥尼姆精华蜜蜂刷怪蛋",
+  "item.productivebees.spawn_egg_lightium_bee": "光素精华蜜蜂刷怪蛋",
+  "item.productivebees.spawn_egg_tornium_bee": "托尼姆精华蜜蜂刷怪蛋",
+  "item.productivebees.spawn_egg_ouranium_bee": "铀源精华蜜蜂刷怪蛋",
+  "item.productivebees.honeycomb_ornium": "奥尼姆精华蜜脾",
+  "item.productivebees.honeycomb_lightium": "光素精华蜜脾",
+  "item.productivebees.honeycomb_tornium": "托尼姆精华蜜脾",
+  "item.productivebees.honeycomb_ouranium": "铀源精华蜜脾",
+  "block.productivebees.comb_ornium": "奥尼姆精华蜜脾块",
+  "block.productivebees.comb_lightium": "光素精华蜜脾块",
+  "block.productivebees.comb_tornium": "托尼姆精华蜜脾块",
+  "block.productivebees.comb_ouranium": "铀源精华蜜脾块"
+}

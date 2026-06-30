@@ -1,0 +1,67 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "type": "productivebees:component",
+    "components": {
+      "minecraft:entity_data": {
+        "type": "productivebees:tornium",
+        "id": "productivebees:configurable_bee"
+      }
+    },
+    "items": "productivebees:spawn_egg_configurable_bee"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalextendedtier:ouranium_block"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_essence"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_block"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_essence"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_block"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_essence"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_block"
+    },
+    {
+      "item": "mysticalextendedtier:ouranium_essence"
+    }
+  ],
+  "result": {
+    "components": {
+      "minecraft:entity_data": {
+        "type": "productivebees:ouranium",
+        "id": "productivebees:configurable_bee"
+      }
+    },
+    "count": 1,
+    "id": "productivebees:spawn_egg_configurable_bee"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mysticalagriculture"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mysticalextendedtier"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:tornium"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:ouranium"
+    }
+  ]
+}

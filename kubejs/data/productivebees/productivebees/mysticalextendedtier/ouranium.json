@@ -1,0 +1,15 @@
+{
+  "primaryColor": "#163e45",
+  "secondaryColor": "#345c63",
+  "particleColor": "#224a51",
+  "flowerBlock": "mysticalextendedtier:ouranium_block",
+  "description": "productivebees.ingredient.description.only_spawnegg",
+  "size": 0.8,
+  "selfbreed": false,
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mysticalextendedtier"
+    }
+  ]
+}

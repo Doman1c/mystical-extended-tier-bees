@@ -1,0 +1,33 @@
+{
+  "type": "productivebees:centrifuge",
+  "ingredient": {
+    "type": "productivebees:component",
+    "components": {
+      "productivebees:bee_type": "productivebees:tornium"
+    },
+    "items": "productivebees:configurable_honeycomb"
+  },
+  "outputs": [
+    {
+      "item": {
+        "item": "mysticalextendedtier:tornium_essence"
+      },
+      "chance": 0.1
+    },
+    {
+      "item": {
+        "item": "productivebees:wax"
+      }
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mysticalextendedtier"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:tornium"
+    }
+  ]
+}
