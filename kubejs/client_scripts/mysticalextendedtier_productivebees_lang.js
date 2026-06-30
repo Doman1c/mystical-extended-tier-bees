@@ -19,3 +19,25 @@ ClientEvents.lang('zh_cn', event => {
   event.add('block.productivebees.comb_tornium', '托尼姆精华蜜脾块')
   event.add('block.productivebees.comb_ouranium', '铀源精华蜜脾块')
 })
+
+ClientEvents.lang('en_us', event => {
+  event.add('entity.productivebees.ornium_bee', 'Ornium Essence Bee')
+  event.add('entity.productivebees.lightium_bee', 'Lightium Essence Bee')
+  event.add('entity.productivebees.tornium_bee', 'Tornium Essence Bee')
+  event.add('entity.productivebees.ouranium_bee', 'Ouranium Essence Bee')
+
+  event.add('item.productivebees.spawn_egg_configurable.ornium', 'Ornium Essence Bee Spawn Egg')
+  event.add('item.productivebees.spawn_egg_configurable.lightium', 'Lightium Essence Bee Spawn Egg')
+  event.add('item.productivebees.spawn_egg_configurable.tornium', 'Tornium Essence Bee Spawn Egg')
+  event.add('item.productivebees.spawn_egg_configurable.ouranium', 'Ouranium Essence Bee Spawn Egg')
+
+  event.add('item.productivebees.configurable_honeycomb.ornium', 'Ornium Essence Honeycomb')
+  event.add('item.productivebees.configurable_honeycomb.lightium', 'Lightium Essence Honeycomb')
+  event.add('item.productivebees.configurable_honeycomb.tornium', 'Tornium Essence Honeycomb')
+  event.add('item.productivebees.configurable_honeycomb.ouranium', 'Ouranium Essence Honeycomb')
+
+  event.add('block.productivebees.configurable_comb.ornium', 'Ornium Essence Comb Block')
+  event.add('block.productivebees.configurable_comb.lightium', 'Lightium Essence Comb Block')
+  event.add('block.productivebees.configurable_comb.tornium', 'Tornium Essence Comb Block')
+  event.add('block.productivebees.configurable_comb.ouranium', 'Ouranium Essence Comb Block')
+})
