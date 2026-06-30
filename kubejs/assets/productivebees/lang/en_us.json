@@ -1,0 +1,21 @@
+{
+  "entity.productivebees.ornium_bee": "Ornium Essence Bee",
+  "entity.productivebees.lightium_bee": "Lightium Essence Bee",
+  "entity.productivebees.tornium_bee": "Tornium Essence Bee",
+  "entity.productivebees.ouranium_bee": "Ouranium Essence Bee",
+
+  "item.productivebees.spawn_egg_configurable.ornium": "Ornium Essence Bee Spawn Egg",
+  "item.productivebees.spawn_egg_configurable.lightium": "Lightium Essence Bee Spawn Egg",
+  "item.productivebees.spawn_egg_configurable.tornium": "Tornium Essence Bee Spawn Egg",
+  "item.productivebees.spawn_egg_configurable.ouranium": "Ouranium Essence Bee Spawn Egg",
+
+  "item.productivebees.configurable_honeycomb.ornium": "Ornium Essence Honeycomb",
+  "item.productivebees.configurable_honeycomb.lightium": "Lightium Essence Honeycomb",
+  "item.productivebees.configurable_honeycomb.tornium": "Tornium Essence Honeycomb",
+  "item.productivebees.configurable_honeycomb.ouranium": "Ouranium Essence Honeycomb",
+
+  "block.productivebees.configurable_comb.ornium": "Ornium Essence Comb Block",
+  "block.productivebees.configurable_comb.lightium": "Lightium Essence Comb Block",
+  "block.productivebees.configurable_comb.tornium": "Tornium Essence Comb Block",
+  "block.productivebees.configurable_comb.ouranium": "Ouranium Essence Comb Block"
+}
